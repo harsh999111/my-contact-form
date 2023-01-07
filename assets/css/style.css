@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+body{
+    background-color: rgb(23, 232, 120);
+}
+#name,#email,#phone,#gender,#password,#submit,#message{
+    margin: 0.75rem;
+}
+
+#name,#email,#phone,#gender,#password,#message{
+    text-align: left;
+    font-size: large;
+    width: 1300px;
+}
+.n,.m,.p,.pa,.e,.g{
+    font-size:large;
+}
+
+#submit{
+    color: rgba(91, 6, 237, 0.871);
+}
